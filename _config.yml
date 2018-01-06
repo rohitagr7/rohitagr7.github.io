@@ -1,6 +1,6 @@
 # main text of home
 name: Rohit Agrawal
-bio: A Man who travels the world eating noodles
+bio: CS Master's student at the University of Illinois, Urbnana-Champaign
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://rohitagr7.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
